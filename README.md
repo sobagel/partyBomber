@@ -1,4 +1,5 @@
 # partyBomber
 /partybomb {user};
 run command again to turn off;
-turned off while in menu
+turned off while in menu;
+requires sleep ct module
